@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e0cb8592_002D412f_002D4abf_002Dbd33_002Dfc5fa5774485/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::TestTemplate.TestName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTest.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTest.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTest.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test14&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test13&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test12&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test11&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test21&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test22&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test23&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test24&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;GTest::615C735E-8382-4546-A1B1-53B651099726::.NETFramework,Version=v4.0::ActualTestUbisoft.Test25&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
